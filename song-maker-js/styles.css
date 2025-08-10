@@ -83,7 +83,7 @@ body {
   border: 1px solid var(--line);
   border-radius: 8px;
   padding: 10px;
-  background-color: #0b1422;
+  background-color: #0b1422; 
 }
 
 .grid-layout {
